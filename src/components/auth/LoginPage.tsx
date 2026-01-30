@@ -138,7 +138,7 @@ export function LoginPage({ onSwitchToSignup }: LoginPageProps) {
 
         {/* Footer */}
         <p className="text-center text-gray-600 text-xs mt-6">
-          © 2024 Hostel-Hive. All rights reserved.
+          © 2026 Hostel-Hive. All rights reserved.
         </p>
       </div>
     </div>
